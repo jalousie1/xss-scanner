@@ -1,10 +1,10 @@
-# css scanner
+# Xss Scanner
 
 A tool for detecting Cross-Site Scripting (XSS) vulnerabilities in websites using visual and code analysis.
 
 ## About
 
-XSSVision combines multiple analysis techniques to identify XSS vulnerabilities:
+XSS Scanner combines multiple analysis techniques to identify XSS vulnerabilities:
 
 - Visual analysis of UI elements using OpenCV
 - HTML code analysis for suspicious patterns
